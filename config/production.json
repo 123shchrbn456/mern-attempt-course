@@ -1,6 +1,6 @@
 {
-    "port": 80,
+    "port": 5000,
     "jwtSecret": "secret",
     "mongoUri": "mongodb+srv://Ihor:4EtfbAhJDC71537i@cluster0-usgov.mongodb.net/mern-course?retryWrites=true",
-    "baseUrl": "http://therizk.ru"
+    "baseUrl": "http://localhost:5000"
 }
